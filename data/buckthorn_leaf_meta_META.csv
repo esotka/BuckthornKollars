@@ -1,0 +1,345 @@
+MetaPop,Site_ID,Site,Sample,Test,Sample.geno,ID,Genomic_tag,Genomic_ID,Collected,Lat,Long,Height
+Bass Harbor East,BE,Bass Harbor East,01,BE01,BE01,BHE_1,.bwa.bam,BHE_1.bwa.bam,29-Jul-22,44.25335,68.34785,0.5
+Bass Harbor East,BE,Bass Harbor East,02,BE02,BE02,BHE_2,.bwa.bam,BHE_2.bwa.bam,29-Jul-22,44.2534,68.34784,0.5
+Bass Harbor East,BE,Bass Harbor East,03,BE03,BE03,BHE_3,.bwa.bam,BHE_3.bwa.bam,29-Jul-22,44.25354,68.34758,0.5
+Bass Harbor East,BE,Bass Harbor East,04,BE04,BE04,BHE_4,.bwa.bam,BHE_4.bwa.bam,29-Jul-22,44.25392,68.34692,1-1.5
+Bass Harbor East,BE,Bass Harbor East,05,BE05,BE05,BHE_5,.bwa.bam,BHE_5.bwa.bam,29-Jul-22,44.25393,68.34689,0.5-1
+Bass Harbor East,BE,Bass Harbor East,06,BE06,BE06,BHE_6,.bwa.bam,BHE_6.bwa.bam,29-Jul-22,44.25397,68.3468,<0.5
+Bass Harbor East,BE,Bass Harbor East,07,BE07,BE07,BHE_7,.bwa.bam,BHE_7.bwa.bam,29-Jul-22,44.25399,68.34674,0.5-1
+Bass Harbor East,BE,Bass Harbor East,08,BE08,BE08,BHE_8,.bwa.bam,BHE_8.bwa.bam,29-Jul-22,44.254,68.34666,<0.5
+Bass Harbor East,BE,Bass Harbor East,09,BE09,BE09,BHE_9,.bwa.bam,BHE_9.bwa.bam,29-Jul-22,44.25402,68.34663,0.5-1
+Bass Harbor East,BE,Bass Harbor East,10,BE10,BE10,BHE_10,.bwa.bam,BHE_10.bwa.bam,29-Jul-22,44.25403,68.34664,0.5
+Bass Harbor East,BE,Bass Harbor East,11,BE11,BE11,BHE_11,.bwa.bam,BHE_11.bwa.bam,29-Jul-22,44.25405,68.34666,0.5-1
+Bass Harbor East,BE,Bass Harbor East,12,BE12,BE12,BHE_12,.bwa.bam,BHE_12.bwa.bam,29-Jul-22,44.25411,68.3467,>3
+Bass Harbor East,BE,Bass Harbor East,13,BE13,BE13,BHE_13,.bwa.bam,BHE_13.bwa.bam,29-Jul-22,44.25416,68.34668,0.5-1
+Bass Harbor East,BE,Bass Harbor East,14,BE14,BE14,BHE_14,.bwa.bam,BHE_14.bwa.bam,29-Jul-22,44.25416,68.34669,0.5-1
+Bass Harbor East,BE,Bass Harbor East,15,BE15,BE15,BHE_15,.bwa.bam,BHE_15.bwa.bam,29-Jul-22,44.25419,68.34664,1-1.5
+Bass Harbor East,BE,Bass Harbor East,16,BE16,BE16,BHE_16,.bwa.bam,BHE_16.bwa.bam,29-Jul-22,44.2542,68.34661,1-1.5
+Bass Harbor East,BE,Bass Harbor East,17,BE17,BE17,BHE_17,.bwa.bam,BHE_17.bwa.bam,29-Jul-22,44.2542,68.34653,0.5-1
+Bass Harbor East,BE,Bass Harbor East,18,BE18,BE18,BHE_18,.bwa.bam,BHE_18.bwa.bam,29-Jul-22,44.25419,68.34648,1-1.5
+Bass Harbor East,BE,Bass Harbor East,19,BE19,BE19,BHE_19,.bwa.bam,BHE_19.bwa.bam,29-Jul-22,44.25418,68.34642,<0.5
+Bass Harbor East,BE,Bass Harbor East,20,BE20,BE20,BHE_20,.bwa.bam,BHE_20.bwa.bam,29-Jul-22,44.25438,68.34633,0.5-1
+Bass Harbor East,BE,Bass Harbor East,21,BE21,BE21,BHE_21,.bwa.bam,BHE_21.bwa.bam,29-Jul-22,44.25441,68.34635,1-1.5
+Bass Harbor East,BE,Bass Harbor East,22,BE22,BE22,BHE_22,.bwa.bam,BHE_22.bwa.bam,29-Jul-22,44.25438,68.34641,0.5-1
+Bass Harbor East,BE,Bass Harbor East,23,BE23,BE23,BHE_23,.bwa.bam,BHE_23.bwa.bam,29-Jul-22,44.2542,68.34653,0.5-1
+Bass Harbor East,BE,Bass Harbor East,25,BE25,BE25,BHE_25,.bwa.bam,BHE_25.bwa.bam,29-Jul-22,44.25416,68.34654,0.5-1
+Bass Harbor West,BN,Bass Harbor North,01,BN01,BN01,BHN_1,.bwa.bam,BHN_1.bwa.bam,29-Jul-22,44.25628,68.34726,2-2.5
+Bass Harbor West,BN,Bass Harbor North,02,BN02,BN02,BHN_2,.bwa.bam,BHN_2.bwa.bam,29-Jul-22,44.25631,68.34727,0.5-1
+Bass Harbor West,BN,Bass Harbor North,03,BN03,BN03,BHN_3,.bwa.bam,BHN_3.bwa.bam,29-Jul-22,44.25632,68.34727,1-1.5
+Bass Harbor West,BN,Bass Harbor North,04,BN04,BN04,BHN_4,.bwa.bam,BHN_4.bwa.bam,29-Jul-22,44.25631,68.34728,1
+Bass Harbor West,BN,Bass Harbor North,05,BN05,BN05,BHN_5,.bwa.bam,BHN_5.bwa.bam,29-Jul-22,44.25628,68.34724,1
+Bass Harbor West,BN,Bass Harbor North,06,BN06,BN06,BHN_6,.bwa.bam,BHN_6.bwa.bam,29-Jul-22,44.25639,68.34714,0.5
+Bass Harbor West,BN,Bass Harbor North,07,BN07,BN07,BHN_7,.bwa.bam,BHN_7.bwa.bam,29-Jul-22,44.25637,68.34711,0.5
+Bass Harbor West,BN,Bass Harbor North,08,BN08,BN08,BHN_8,.bwa.bam,BHN_8.bwa.bam,29-Jul-22,44.25638,68.34711,1-1.5
+Bass Harbor West,BN,Bass Harbor North,09,BN09,BN09,BHN_9,.bwa.bam,BHN_9.bwa.bam,29-Jul-22,44.25639,68.34708,<0.5
+Bass Harbor West,BN,Bass Harbor North,10,BN10,BN10,BHN_10,.bwa.bam,BHN_10.bwa.bam,29-Jul-22,44.2564,68.34705,1.5-2
+Bass Harbor West,BN,Bass Harbor North,11,BN11,BN11,BHN_11,.bwa.bam,BHN_11.bwa.bam,29-Jul-22,44.25641,68.34705,2-2.5
+Bass Harbor West,BN,Bass Harbor North,12,BN12,BN12,BHN_12,.bwa.bam,BHN_12.bwa.bam,29-Jul-22,44.25645,68.34696,1.5-2
+Bass Harbor West,BN,Bass Harbor North,13,BN13,BN13,BHN_13,.bwa.bam,BHN_13.bwa.bam,29-Jul-22,44.25647,68.34695,1-1.5
+Bass Harbor West,BN,Bass Harbor North,14,BN14,BN14,BHN_14,.bwa.bam,BHN_14.bwa.bam,29-Jul-22,44.25652,68.34694,0.5-1
+Bass Harbor West,BN,Bass Harbor North,15,BN15,BN15,BHN_15,.bwa.bam,BHN_15.bwa.bam,29-Jul-22,44.25652,68.34693,0.5-1
+Bass Harbor West,BN,Bass Harbor North,16,BN16,BN16,BHN_16,.bwa.bam,BHN_16.bwa.bam,29-Jul-22,44.25656,68.34691,0.5-1
+Bass Harbor West,BN,Bass Harbor North,17,BN17,BN17,BHN_17,.bwa.bam,BHN_17.bwa.bam,29-Jul-22,44.25661,68.34698,1
+Bass Harbor West,BN,Bass Harbor North,18,BN18,BN18,BHN_18,.bwa.bam,BHN_18.bwa.bam,29-Jul-22,44.25661,68.34697,1-1.5
+Bass Harbor West,BN,Bass Harbor North,19,BN19,BN19,BHN_19,.bwa.bam,BHN_19.bwa.bam,29-Jul-22,44.25661,68.34695,1-1.5
+Bass Harbor West,BN,Bass Harbor North,20,BN20,BN20,BHN_20,.bwa.bam,BHN_20.bwa.bam,29-Jul-22,44.25663,68.34698,0.5-1
+Bass Harbor West,BN,Bass Harbor North,21,BN21,BN21,BHN_21,.bwa.bam,BHN_21.bwa.bam,29-Jul-22,44.25665,68.34702,1
+Bass Harbor West,BN,Bass Harbor North,22,BN22,BN22,BHN_22,.bwa.bam,BHN_22.bwa.bam,29-Jul-22,44.25671,68.34711,0.5-1
+Bass Harbor West,BN,Bass Harbor North,23,BN23,BN23,BHN_23,.bwa.bam,BHN_23.bwa.bam,29-Jul-22,44.25675,68.34717,0.5-1
+Bass Harbor West,BN,Bass Harbor North,24,BN24,BN24,BHN_24,.bwa.bam,BHN_24.bwa.bam,29-Jul-22,44.25679,68.34715,0.5-1
+Bass Harbor West,BN,Bass Harbor North,25,BN25,BN25,BHN_25,.bwa.bam,BHN_25.bwa.bam,29-Jul-22,44.2568,68.34716,1
+Bass Harbor West,BS,Bass Harbor School,01,BS01,BS01,BHS_1,.bwa.bam,BHS_1.bwa.bam,27-Jul-22,44.25499,68.34978,>3
+Bass Harbor West,BS,Bass Harbor School,02,BS02,BS02,BHS_2,.bwa.bam,BHS_2.bwa.bam,27-Jul-22,44.25599,68.3501,1-1.5
+Bass Harbor West,BS,Bass Harbor School,03,BS03,BS03,BHS_3,.bwa.bam,BHS_3.bwa.bam,27-Jul-22,44.25602,68.35011,2-2.5
+Bass Harbor West,BS,Bass Harbor School,04,BS04,BS04,BHS_4,.bwa.bam,BHS_4.bwa.bam,27-Jul-22,44.25619,68.35014,1
+Bass Harbor West,BS,Bass Harbor School,05,BS05,BS05,BHS_5,.bwa.bam,BHS_5.bwa.bam,27-Jul-22,44.25621,68.35014,1.5
+Bass Harbor West,BS,Bass Harbor School,06,BS06,BS06,BHS_6,.bwa.bam,BHS_6.bwa.bam,27-Jul-22,44.25625,68.35013,1.5-2
+Bass Harbor West,BS,Bass Harbor School,07,BS07,BS07,BHS_7,.bwa.bam,BHS_7.bwa.bam,27-Jul-22,44.25631,68.35017,1
+Bass Harbor West,BS,Bass Harbor School,08,BS08,BS08,BHS_8,.bwa.bam,BHS_8.bwa.bam,27-Jul-22,44.25634,68.35023,2.5
+Bass Harbor West,BS,Bass Harbor School,09,BS09,BS09,BHS_9,.bwa.bam,BHS_9.bwa.bam,27-Jul-22,44.25636,68.35031,1-1.5
+Bass Harbor West,BS,Bass Harbor School,10,BS10,BS10,BHS_10,.bwa.bam,BHS_10.bwa.bam,27-Jul-22,44.25636,68.35031,>3
+Bass Harbor West,BS,Bass Harbor School,11,BS11,BS11,BHS_11,.bwa.bam,BHS_11.bwa.bam,27-Jul-22,44.25635,68.35034,>3
+Bass Harbor West,BS,Bass Harbor School,12,BS12,BS12,BHS_12,.bwa.bam,BHS_12.bwa.bam,27-Jul-22,44.25636,68.35036,>3
+Bass Harbor West,BS,Bass Harbor School,13,BS13,BS13,BHS_13,.bwa.bam,BHS_13.bwa.bam,27-Jul-22,44.25635,68.35036,>3
+Bass Harbor West,BS,Bass Harbor School,14,BS14,BS14,BHS_14,.bwa.bam,BHS_14.bwa.bam,27-Jul-22,44.25636,68.35033,2.5-3
+Bass Harbor West,BS,Bass Harbor School,15,BS15,BS15,BHS_15,.bwa.bam,BHS_15.bwa.bam,27-Jul-22,44.25641,68.35031,>3
+Bass Harbor West,BS,Bass Harbor School,16,BS16,BS16,BHS_16,.bwa.bam,BHS_16.bwa.bam,27-Jul-22,44.25644,68.35032,2.5-3
+Bass Harbor West,BS,Bass Harbor School,17,BS17,BS17,BHS_17,.bwa.bam,BHS_17.bwa.bam,27-Jul-22,44.25649,68.3503,1-1.5
+Bass Harbor West,BS,Bass Harbor School,18,BS18,BS18,BHS_18,.bwa.bam,BHS_18.bwa.bam,27-Jul-22,44.2566,68.35035,2
+Bass Harbor West,BS,Bass Harbor School,19,BS19,BS19,BHS_19,.bwa.bam,BHS_19.bwa.bam,27-Jul-22,44.25673,68.3504,2
+Bass Harbor West,BS,Bass Harbor School,20,BS20,BS20,BHS_20,.bwa.bam,BHS_20.bwa.bam,27-Jul-22,44.25651,68.3503,1.5
+Bass Harbor West,BS,Bass Harbor School,21,BS21,BS21,BHS_21,.bwa.bam,BHS_21.bwa.bam,27-Jul-22,44.25646,68.35025,1-1.5
+Bass Harbor West,BS,Bass Harbor School,22,BS22,BS22,BHS_22,.bwa.bam,BHS_22.bwa.bam,27-Jul-22,44.25645,68.35027,1-1.5
+Bass Harbor West,BS,Bass Harbor School,23,BS23,BS23,BHS_23,.bwa.bam,BHS_23.bwa.bam,27-Jul-22,44.25597,68.35033,1.5-2
+Bass Harbor West,BS,Bass Harbor School,24,BS24,BS24,BHS_24,.bwa.bam,BHS_24.bwa.bam,27-Jul-22,44.25603,68.35062,1-1.5
+Bass Harbor West,BS,Bass Harbor School,25,BS25,BS25,BHS_25,.bwa.bam,BHS_25.bwa.bam,27-Jul-22,44.25612,68.3508,2.5-3
+Bass Harbor West,BW,Bass Harbor West,01,BW01,BW01,BHW_1,.bwa.bam,BHW_1.bwa.bam,27-Jul-22,44.25515,68.34805,2-2.5
+Bass Harbor West,BW,Bass Harbor West,02,BW02,BW02,BHW_2,.bwa.bam,BHW_2.bwa.bam,27-Jul-22,44.25529,68.34782,1.5-2
+Bass Harbor West,BW,Bass Harbor West,03,BW03,BW03,BHW_3,.bwa.bam,BHW_3.bwa.bam,27-Jul-22,44.25537,68.34785,0.5-1
+Bass Harbor West,BW,Bass Harbor West,04,BW04,BW04,BHW_4,.bwa.bam,BHW_4.bwa.bam,27-Jul-22,44.25533,68.34781,1-1.5
+Bass Harbor West,BW,Bass Harbor West,05,BW05,BW05,BHW_5,.bwa.bam,BHW_5.bwa.bam,27-Jul-22,44.25542,68.34801,2-2.5
+Bass Harbor West,BW,Bass Harbor West,06,BW06,BW06,BHW_6,.bwa.bam,BHW_6.bwa.bam,27-Jul-22,44.25514,68.34813,1.5-2
+Bass Harbor West,BW,Bass Harbor West,07,BW07,BW07,BHW_7,.bwa.bam,BHW_7.bwa.bam,27-Jul-22,44.2551,68.34825,2
+Bass Harbor West,BW,Bass Harbor West,08,BW08,BW08,BHW_8,.bwa.bam,BHW_8.bwa.bam,27-Jul-22,44.25515,68.34811,0.5-1
+Bass Harbor West,BW,Bass Harbor West,09,BW09,BW09,BHW_9,.bwa.bam,BHW_9.bwa.bam,27-Jul-22,44.25516,68.34811,1-1.5
+Bass Harbor West,BW,Bass Harbor West,10,BW10,BW10,BHW_10,.bwa.bam,BHW_10.bwa.bam,27-Jul-22,44.25517,68.34812,1-1.5
+Bass Harbor West,BW,Bass Harbor West,11,BW11,BW11,BHW_11,.bwa.bam,BHW_11.bwa.bam,27-Jul-22,44.25517,68.34813,2.5-3
+Bass Harbor West,BW,Bass Harbor West,12,BW12,BW12,BHW_12,.bwa.bam,BHW_12.bwa.bam,27-Jul-22,44.25517,68.34816,1-1.5
+Bass Harbor West,BW,Bass Harbor West,13,BW13,BW13,BHW_13,.bwa.bam,BHW_13.bwa.bam,27-Jul-22,44.25517,68.34817,1-1.5
+Bass Harbor West,BW,Bass Harbor West,14,BW14,BW14,BHW_14,.bwa.bam,BHW_14.bwa.bam,27-Jul-22,44.25517,68.34818,1-1.5
+Bass Harbor West,BW,Bass Harbor West,15,BW15,BW15,BHW_15,.bwa.bam,BHW_15.bwa.bam,27-Jul-22,44.25518,68.34818,1-1.5
+Bass Harbor West,BW,Bass Harbor West,16,BW16,BW16,BHW_16,.bwa.bam,BHW_16.bwa.bam,27-Jul-22,44.25521,68.3481,1-1.5
+Bass Harbor West,BW,Bass Harbor West,17,BW17,BW17,BHW_17,.bwa.bam,BHW_17.bwa.bam,27-Jul-22,44.25535,68.3478,0.5-1
+Beaver Dam,BD,Beaver Dam Pond,01,BD01,BD01,BDP_1,.bwa.bam,BDP_1.bwa.bam,28-Jul-22,44.35958,68.19608,0.5-1
+Beaver Dam,BD,Beaver Dam Pond,02,BD02,BD02,BDP_2,.bwa.bam,BDP_2.bwa.bam,28-Jul-22,44.35954,68.19596,1
+Beaver Dam,BD,Beaver Dam Pond,03,BD03,BD03,BDP_3,.bwa.bam,BDP_3.bwa.bam,28-Jul-22,44.35966,68.19597,2-2.5
+Beaver Dam,BD,Beaver Dam Pond,04,BD04,BD04,BDP_4,.bwa.bam,BDP_4.bwa.bam,28-Jul-22,44.35966,68.19595,3
+Beaver Dam,BD,Beaver Dam Pond,05,BD05,BD05,BDP_5,.bwa.bam,BDP_5.bwa.bam,28-Jul-22,44.35967,68.19596,0.5
+Beaver Dam,BD,Beaver Dam Pond,06,BD06,BD06,BDP_6,.bwa.bam,BDP_6.bwa.bam,28-Jul-22,44.35969,68.19596,0.5
+Beaver Dam,BD,Beaver Dam Pond,07,BD07,BD07,BDP_7,.bwa.bam,BDP_7.bwa.bam,28-Jul-22,44.35974,68.19594,0.5
+Beaver Dam,BD,Beaver Dam Pond,08,BD08,BD08,BDP_8,.bwa.bam,BDP_8.bwa.bam,28-Jul-22,44.35973,68.19593,0.5
+Beaver Dam,BD,Beaver Dam Pond,09,BD09,BD09,BDP_9,.bwa.bam,BDP_9.bwa.bam,28-Jul-22,44.3594,68.19623,<0.5
+Beaver Dam,BD,Beaver Dam Pond,10,BD10,BD10,BDP_10,.bwa.bam,BDP_10.bwa.bam,28-Jul-22,44.35936,68.19619,<0.5
+Beaver Dam,BD,Beaver Dam Pond,11,BD11,BD11,BDP_11,.bwa.bam,BDP_11.bwa.bam,28-Jul-22,44.35936,68.1962,0.5
+Beaver Dam,BD,Beaver Dam Pond,12,BD12,BD12,BDP_12,.bwa.bam,BDP_12.bwa.bam,28-Jul-22,44.35937,68.19623,<0.5
+Beaver Dam,BD,Beaver Dam Pond,13,BD13,BD13,BDP_13,.bwa.bam,BDP_13.bwa.bam,28-Jul-22,44.35937,68.19622,<0.5
+Beaver Dam,BD,Beaver Dam Pond,14,BD14,BD14,BDP_14,.bwa.bam,BDP_14.bwa.bam,28-Jul-22,44.35947,68.19623,>3
+Beaver Dam,BD,Beaver Dam Pond,15,BD15,BD15,BDP_15,.bwa.bam,BDP_15.bwa.bam,28-Jul-22,44.35937,68.19621,0.5
+Beaver Dam,BD,Beaver Dam Pond,16,BD16,BD16,BDP_16,.bwa.bam,BDP_16.bwa.bam,28-Jul-22,44.35936,68.19616,0.5
+Beaver Dam,BD,Beaver Dam Pond,17,BD17,BD17,BDP_17,.bwa.bam,BDP_17.bwa.bam,28-Jul-22,44.35954,68.19621,<0.5
+Beaver Dam,BD,Beaver Dam Pond,18,BD18,BD18,BDP_18,.bwa.bam,BDP_18.bwa.bam,28-Jul-22,44.35973,68.19624,<0.5
+Beaver Dam,BD,Beaver Dam Pond,19,BD19,BD19,BDP_19,.bwa.bam,BDP_19.bwa.bam,28-Jul-22,44.35981,68.19624,<0.5
+Beaver Dam,BD,Beaver Dam Pond,20,BD20,BD20,BDP_20,.bwa.bam,BDP_20.bwa.bam,28-Jul-22,44.35986,68.19633,<0.5
+Beaver Dam,BD,Beaver Dam Pond,21,BD21,BD21,BDP_21,.bwa.bam,BDP_21.bwa.bam,28-Jul-22,44.3604,68.1971,1-1.5
+Beaver Dam,BD,Beaver Dam Pond,22,BD22,BD22,BDP_22,.bwa.bam,BDP_22.bwa.bam,28-Jul-22,44.36042,68.19714,2-2.5
+Beaver Dam,BD,Beaver Dam Pond,23,BD23,BD23,BDP_23,.bwa.bam,BDP_23.bwa.bam,28-Jul-22,44.36044,68.1972,0.5
+Beaver Dam,BD,Beaver Dam Pond,24,BD24,BD24,BDP_24,.bwa.bam,BDP_24.bwa.bam,28-Jul-22,44.36044,68.19723,0.5-1
+Beaver Dam,BD,Beaver Dam Pond,25,BD25,BD25,BDP_25,.bwa.bam,BDP_25.bwa.bam,28-Jul-22,44.36047,68.19722,<0.5
+Cadillac,CM,Cadillac Mountain,01,CM01,CM01,CMT_1,.bwa.bam,CMT_1.bwa.bam,27-Jul-22,44.36106,68.22866,1-1.5
+Cadillac,CM,Cadillac Mountain,02,CM02,CM02,CMT_2,.bwa.bam,CMT_2.bwa.bam,27-Jul-22,44.36108,68.22869,1-1.5
+Cadillac,CM,Cadillac Mountain,03,CM03,CM03,CMT_3,.bwa.bam,CMT_3.bwa.bam,27-Jul-22,44.36105,68.22867,1-1.5
+Cadillac,CM,Cadillac Mountain,04,CM04,CM04,CMT_4,.bwa.bam,CMT_4.bwa.bam,27-Jul-22,44.36108,68.22863,1
+Cadillac,CM,Cadillac Mountain,05,CM05,CM05,CMT_5,.bwa.bam,CMT_5.bwa.bam,27-Jul-22,44.361,68.2286,1.5-2
+Cadillac,CM,Cadillac Mountain,06,CM06,CM06,CMT_6,.bwa.bam,CMT_6.bwa.bam,27-Jul-22,44.36087,68.22855,2
+Cadillac,CM,Cadillac Mountain,07,CM07,CM07,CMT_7,.bwa.bam,CMT_7.bwa.bam,27-Jul-22,44.36089,68.22856,1-1.5
+Cadillac,CM,Cadillac Mountain,08,CM08,CM08,CMT_8,.bwa.bam,CMT_8.bwa.bam,27-Jul-22,44.36089,68.22856,0.5-1
+Cadillac,CM,Cadillac Mountain,09,CM09,CM09,CMT_9,.bwa.bam,CMT_9.bwa.bam,27-Jul-22,44.36084,68.22854,1.5-2
+Cadillac,CM,Cadillac Mountain,10,CM10,CM10,CMT_10,.bwa.bam,CMT_10.bwa.bam,27-Jul-22,44.36082,68.22845,2
+Cadillac,CM,Cadillac Mountain,11,CM11,CM11,CMT_11,.bwa.bam,CMT_11.bwa.bam,27-Jul-22,44.36078,68.22842,1-1.5
+Cadillac,CM,Cadillac Mountain,12,CM12,CM12,CMT_12,.bwa.bam,CMT_12.bwa.bam,27-Jul-22,44.36076,68.22841,1-1.5
+Cadillac,CM,Cadillac Mountain,13,CM13,CM13,CMT_13,.bwa.bam,CMT_13.bwa.bam,27-Jul-22,44.36073,68.22838,2-2.5
+Cadillac,CM,Cadillac Mountain,14,CM14,CM14,CMT_14,.bwa.bam,CMT_14.bwa.bam,27-Jul-22,44.36074,68.22832,1-1.5
+Cadillac,CM,Cadillac Mountain,15,CM15,CM15,CMT_15,.bwa.bam,CMT_15.bwa.bam,27-Jul-22,44.36073,68.22827,2-2.5
+Cadillac,CM,Cadillac Mountain,16,CM16,CM16,CMT_16,.bwa.bam,CMT_16.bwa.bam,27-Jul-22,44.36071,68.22821,2-2.5
+Cadillac,CM,Cadillac Mountain,17,CM17,CM17,CMT_17,.bwa.bam,CMT_17.bwa.bam,27-Jul-22,44.3607,68.2282,2.5-3
+Cadillac,CM,Cadillac Mountain,18,CM18,CM18,CMT_18,.bwa.bam,CMT_18.bwa.bam,27-Jul-22,44.36066,68.22815,1-1.5
+Cadillac,CM,Cadillac Mountain,19,CM19,CM19,CMT_19,.bwa.bam,CMT_19.bwa.bam,27-Jul-22,44.36063,68.22813,1-1.5
+Cadillac,CM,Cadillac Mountain,20,CM20,CM20,CMT_20,.bwa.bam,CMT_20.bwa.bam,27-Jul-22,44.36073,68.22806,0.5-1
+Cadillac,CM,Cadillac Mountain,21,CM21,CM21,CMT_21,.bwa.bam,CMT_21.bwa.bam,27-Jul-22,44.36079,68.22807,0.5-1
+Cadillac,CM,Cadillac Mountain,22,CM22,CM22,CMT_22,.bwa.bam,CMT_22.bwa.bam,27-Jul-22,44.36091,68.22822,2-2.5
+Cadillac,CM,Cadillac Mountain,23,CM23,CM23,CMT_23,.bwa.bam,CMT_23.bwa.bam,27-Jul-22,44.36099,68.22838,1-1.5
+Cadillac,CM,Cadillac Mountain,24,CM24,CM24,CMT_24,.bwa.bam,CMT_24.bwa.bam,27-Jul-22,44.36103,68.22859,1.5-2
+Cadillac,CM,Cadillac Mountain,25,CM25,CM25,CMT_25,.bwa.bam,CMT_25.bwa.bam,27-Jul-22,44.36105,68.22861,1-1.5
+Canon Brook,CB,Canon Brook,01,CB01,CB01,CB_1,.bwa.bam,CB_1.bwa.bam,30-Jul-22,44.33341,68.20686,<0.5
+Canon Brook,CB,Canon Brook,02,CB02,CB02,CB_2,.bwa.bam,CB_2.bwa.bam,30-Jul-22,44.33343,68.20685,0.5-1
+Canon Brook,CB,Canon Brook,03,CB03,CB03,CB_3,.bwa.bam,CB_3.bwa.bam,30-Jul-22,44.33345,68.20685,<0.5
+Canon Brook,CB,Canon Brook,04,CB04,CB04,CB_4,.bwa.bam,CB_4.bwa.bam,30-Jul-22,44.33346,68.20686,1-1.5
+Canon Brook,CB,Canon Brook,05,CB05,CB05,CB_5,.bwa.bam,CB_5.bwa.bam,30-Jul-22,44.3335,68.20691,1
+Canon Brook,CB,Canon Brook,06,CB06,CB06,CB_6,.bwa.bam,CB_6.bwa.bam,30-Jul-22,44.33353,68.20693,0.5-1
+Canon Brook,CB,Canon Brook,07,CB07,CB07,CB_7,.bwa.bam,CB_7.bwa.bam,30-Jul-22,44.33353,68.20699,<0.5
+Canon Brook,CB,Canon Brook,08,CB08,CB08,CB_8,.bwa.bam,CB_8.bwa.bam,30-Jul-22,44.33356,68.20702,<0.5
+Canon Brook,CB,Canon Brook,09,CB09,CB09,CB_9,.bwa.bam,CB_9.bwa.bam,30-Jul-22,44.33361,68.20706,0.5-1
+Canon Brook,CB,Canon Brook,10,CB10,CB10,CB_10,.bwa.bam,CB_10.bwa.bam,30-Jul-22,44.33363,68.20708,1.5-2
+Canon Brook,CB,Canon Brook,11,CB11,CB11,CB_11,.bwa.bam,CB_11.bwa.bam,30-Jul-22,44.33372,68.20712,1.5-2
+Canon Brook,CB,Canon Brook,12,CB12,CB12,CB_12,.bwa.bam,CB_12.bwa.bam,30-Jul-22,44.33373,68.20711,1.5-2
+Canon Brook,CB,Canon Brook,13,CB13,CB13,CB_13,.bwa.bam,CB_13.bwa.bam,30-Jul-22,44.33368,68.20718,0.5-1
+Canon Brook,CB,Canon Brook,14,CB14,CB14,CB_14,.bwa.bam,CB_14.bwa.bam,30-Jul-22,44.33371,68.20721,1-1.5
+Canon Brook,CB,Canon Brook,15,CB15,CB15,CB_15,.bwa.bam,CB_15.bwa.bam,30-Jul-22,44.33371,68.20723,1.5-2
+Canon Brook,CB,Canon Brook,16,CB16,CB16,CB_16,.bwa.bam,CB_16.bwa.bam,30-Jul-22,44.3337,68.20726,1.5-2
+Canon Brook,CB,Canon Brook,17,CB17,CB17,CB_17,.bwa.bam,CB_17.bwa.bam,30-Jul-22,44.33371,68.20727,1-1.5
+Canon Brook,CB,Canon Brook,18,CB18,CB18,CB_18,.bwa.bam,CB_18.bwa.bam,30-Jul-22,44.33374,68.20733,1-1.5
+Canon Brook,CB,Canon Brook,19,CB19,CB19,CB_19,.bwa.bam,CB_19.bwa.bam,30-Jul-22,44.33375,68.20733,2-2.5
+Canon Brook,CB,Canon Brook,20,CB20,CB20,CB_20,.bwa.bam,CB_20.bwa.bam,30-Jul-22,44.33373,68.20736,1-1.5
+Canon Brook,CB,Canon Brook,21,CB21,CB21,CB_21,.bwa.bam,CB_21.bwa.bam,30-Jul-22,44.3337,68.20745,2-2.5
+Canon Brook,CB,Canon Brook,22,CB22,CB22,CB_22,.bwa.bam,CB_22.bwa.bam,30-Jul-22,44.33382,68.20745,1-1.5
+Canon Brook,CB,Canon Brook,23,CB23,CB23,CB_23,.bwa.bam,CB_23.bwa.bam,30-Jul-22,44.33377,68.20781,0.5-1
+Canon Brook,CB,Canon Brook,24,CB24,CB24,CB_24,.bwa.bam,CB_24.bwa.bam,30-Jul-22,44.33372,68.20779,1
+Canon Brook,CB,Canon Brook,25,CB25,CB25,CB_25,.bwa.bam,CB_25.bwa.bam,30-Jul-22,44.33359,68.20753,0.5
+Great Meadow,GM,Great Meadow,01,GM01,GM01,GM_1,.bwa.bam,GM_1.bwa.bam,28-Jul-22,44.36961,68.20657,0.5-1
+Great Meadow,GM,Great Meadow,02,GM02,GM02,GM_2,.bwa.bam,GM_2.bwa.bam,28-Jul-22,44.36958,68.20651,0.5-1
+Great Meadow,GM,Great Meadow,03,GM03,GM03,GM_3,.bwa.bam,GM_3.bwa.bam,28-Jul-22,44.36957,68.20645,1-1.5
+Great Meadow,GM,Great Meadow,04,GM04,GM04,GM_4,.bwa.bam,GM_4.bwa.bam,28-Jul-22,44.36957,68.20644,0.5-1
+Great Meadow,GM,Great Meadow,05,GM05,GM05,GM_5,.bwa.bam,GM_5.bwa.bam,28-Jul-22,44.3694,68.20647,<0.5
+Great Meadow,GM,Great Meadow,06,GM06,GM06,GM_6,.bwa.bam,GM_6.bwa.bam,28-Jul-22,44.36935,68.20648,0.5-1
+Great Meadow,GM,Great Meadow,07,GM07,GM07,GM_7,.bwa.bam,GM_7.bwa.bam,28-Jul-22,44.3694,68.20641,1-1.5
+Great Meadow,GM,Great Meadow,08,GM08,GM08,GM_8,.bwa.bam,GM_8.bwa.bam,28-Jul-22,44.36941,68.20638,0.5-1
+Great Meadow,GM,Great Meadow,09,GM09,GM09,GM_9,.bwa.bam,GM_9.bwa.bam,28-Jul-22,44.36945,68.20632,0.5-1
+Great Meadow,GM,Great Meadow,10,GM10,GM10,GM_10,.bwa.bam,GM_10.bwa.bam,28-Jul-22,44.36946,68.2063,0.5
+Great Meadow,GM,Great Meadow,11,GM11,GM11,GM_11,.bwa.bam,GM_11.bwa.bam,28-Jul-22,44.36954,68.20632,<0.5
+Great Meadow,GM,Great Meadow,12,GM12,GM12,GM_12,.bwa.bam,GM_12.bwa.bam,28-Jul-22,44.36944,68.20638,0.5-1
+Great Meadow,GM,Great Meadow,13,GM13,GM13,GM_13,.bwa.bam,GM_13.bwa.bam,28-Jul-22,44.36942,68.20639,1
+Great Meadow,GM,Great Meadow,14,GM14,GM14,GM_14,.bwa.bam,GM_14.bwa.bam,28-Jul-22,44.36934,68.20637,1-1.5
+Great Meadow,GM,Great Meadow,15,GM15,GM15,GM_15,.bwa.bam,GM_15.bwa.bam,28-Jul-22,44.3693,68.20637,0.5-1
+Great Meadow,GM,Great Meadow,16,GM16,GM16,GM_16,.bwa.bam,GM_16.bwa.bam,28-Jul-22,44.36929,68.20634,0.5-1
+Great Meadow,GM,Great Meadow,17,GM17,GM17,GM_17,.bwa.bam,GM_17.bwa.bam,28-Jul-22,44.36925,68.20629,1-1.5
+Great Meadow,GM,Great Meadow,18,GM18,GM18,GM_18,.bwa.bam,GM_18.bwa.bam,28-Jul-22,44.36923,68.20626,1-1.5
+Great Meadow,GM,Great Meadow,19,GM19,GM19,GM_19,.bwa.bam,GM_19.bwa.bam,28-Jul-22,44.3692,68.20624,0.5-1
+Great Meadow,GM,Great Meadow,20,GM20,GM20,GM_20,.bwa.bam,GM_20.bwa.bam,28-Jul-22,44.36922,68.20622,1-1.5
+Great Meadow,GM,Great Meadow,21,GM21,GM21,GM_21,.bwa.bam,GM_21.bwa.bam,28-Jul-22,44.3692,68.2062,0.5-1
+Great Meadow,GM,Great Meadow,22,GM22,GM22,GM_22,.bwa.bam,GM_22.bwa.bam,28-Jul-22,44.3691,68.20609,1
+Great Meadow,GM,Great Meadow,23,GM23,GM23,GM_23,.bwa.bam,GM_23.bwa.bam,28-Jul-22,44.36913,68.20601,1-1.5
+Great Meadow,GM,Great Meadow,24,GM24,GM24,GM_24,.bwa.bam,GM_24.bwa.bam,28-Jul-22,44.36918,68.20601,1
+Great Meadow,GM,Great Meadow,25,GM25,GM25,GM_25,.bwa.bam,GM_25.bwa.bam,28-Jul-22,44.36938,68.20619,0.5
+Jackson Labs,JE,Jackson Labs East,01,JE01,JE01,JLE_1,.bwa.bam,JLE_1.bwa.bam,26-Jul-22,44.36887,68.1954,1.5-2
+Jackson Labs,JE,Jackson Labs East,02,JE02,JE02,JLE_2,.bwa.bam,JLE_2.bwa.bam,26-Jul-22,44.36885,68.19536,>3
+Jackson Labs,JE,Jackson Labs East,04,JE04,JE04,JLE_4,.bwa.bam,JLE_4.bwa.bam,26-Jul-22,44.36884,68.19527,2
+Jackson Labs,JE,Jackson Labs East,05,JE05,JE05,JLE_5,.bwa.bam,JLE_5.bwa.bam,26-Jul-22,44.36889,68.19522,>3
+Jackson Labs,JE,Jackson Labs East,07,JE07,JE07,JLE_7,.bwa.bam,JLE_7.bwa.bam,26-Jul-22,44.36898,68.19509,1
+Jackson Labs,JE,Jackson Labs East,09,JE09,JE09,JLE_9,.bwa.bam,JLE_9.bwa.bam,26-Jul-22,44.36887,68.19489,>3
+Jackson Labs,JE,Jackson Labs East,10,JE10,JE10,JLE_10,.bwa.bam,JLE_10.bwa.bam,26-Jul-22,44.36886,68.19491,2-2.5
+Jackson Labs,JE,Jackson Labs East,11,JE11,JE11,JLE_11,.bwa.bam,JLE_11.bwa.bam,26-Jul-22,44.3688,68.19485,1.5-2
+Jackson Labs,JE,Jackson Labs East,12,JE12,JE12,JLE_12,.bwa.bam,JLE_12.bwa.bam,26-Jul-22,44.3688,68.19491,>3
+Jackson Labs,JE,Jackson Labs East,13,JE13,JE13,JLE_13,.bwa.bam,JLE_13.bwa.bam,26-Jul-22,44.36872,68.19496,2.5-3
+Jackson Labs,JE,Jackson Labs East,14,JE14,JE14,JLE_14,.bwa.bam,JLE_14.bwa.bam,26-Jul-22,44.36871,68.19501,>3
+Jackson Labs,JE,Jackson Labs East,16,JE16,JE16,JLE_16,.bwa.bam,JLE_16.bwa.bam,26-Jul-22,44.36869,68.19512,2
+Jackson Labs,JE,Jackson Labs East,17,JE17,JE17,JLE_17,.bwa.bam,JLE_17.bwa.bam,26-Jul-22,44.36854,68.19529,1.5-2
+Jackson Labs,JE,Jackson Labs East,18,JE18,JE18,JLE_18,.bwa.bam,JLE_18.bwa.bam,26-Jul-22,44.36865,68.19519,>3
+Jackson Labs,JE,Jackson Labs East,19,JE19,JE19,JLE_19,.bwa.bam,JLE_19.bwa.bam,26-Jul-22,44.36863,68.19529,1.5-2
+Jackson Labs,JE,Jackson Labs East,20,JE20,JE20,JLE_20,.bwa.bam,JLE_20.bwa.bam,26-Jul-22,44.36851,68.19537,>3
+Jackson Labs,JE,Jackson Labs East,21,JE21,JE21,JLE_21,.bwa.bam,JLE_21.bwa.bam,26-Jul-22,44.36856,68.19518,1.5
+Jackson Labs,JE,Jackson Labs East,22,JE22,JE22,JLE_22,.bwa.bam,JLE_22.bwa.bam,26-Jul-22,44.36848,68.19524,>3
+Jackson Labs,JE,Jackson Labs East,24,JE24,JE24,JLE_24,.bwa.bam,JLE_24.bwa.bam,26-Jul-22,44.36835,68.19527,2.5
+Jackson Labs,JE,Jackson Labs East,25,JE25,JE25,JLE_25,.bwa.bam,JLE_25.bwa.bam,26-Jul-22,44.36835,68.19521,1
+Jackson Labs,JS,Jackson Labs South,01,JS01,JS01,JLS_1,.bwa.bam,JLS_1.bwa.bam,26-Jul-22,44.3691,68.19788,2
+Jackson Labs,JS,Jackson Labs South,02,JS02,JS02,JLS_2,.bwa.bam,JLS_2.bwa.bam,26-Jul-22,44.36911,68.19802,2.5-3
+Jackson Labs,JS,Jackson Labs South,03,JS03,JS03,JLS_3,.bwa.bam,JLS_3.bwa.bam,26-Jul-22,44.36913,68.19808,0.5-1
+Jackson Labs,JS,Jackson Labs South,04,JS04,JS04,JLS_4,.bwa.bam,JLS_4.bwa.bam,26-Jul-22,44.36915,68.19806,1-1.5
+Jackson Labs,JS,Jackson Labs South,05,JS05,JS05,JLS_5,.bwa.bam,JLS_5.bwa.bam,26-Jul-22,44.36917,68.19802,2.5-3
+Jackson Labs,JS,Jackson Labs South,06,JS06,JS06,JLS_6,.bwa.bam,JLS_6.bwa.bam,26-Jul-22,44.36917,68.198,1-1.5
+Jackson Labs,JS,Jackson Labs South,07,JS07,JS07,JLS_7,.bwa.bam,JLS_7.bwa.bam,26-Jul-22,44.36916,68.19792,1.5-2
+Jackson Labs,JS,Jackson Labs South,08,JS08,JS08,JLS_8,.bwa.bam,JLS_8.bwa.bam,26-Jul-22,44.36917,68.19791,>3
+Jackson Labs,JS,Jackson Labs South,09,JS09,JS09,JLS_9,.bwa.bam,JLS_9.bwa.bam,26-Jul-22,44.36919,68.19791,2.5-3
+Jackson Labs,JS,Jackson Labs South,10,JS10,JS10,JLS_10,.bwa.bam,JLS_10.bwa.bam,26-Jul-22,44.36919,68.19785,1.5-2
+Jackson Labs,JS,Jackson Labs South,11,JS11,JS11,JLS_11,.bwa.bam,JLS_11.bwa.bam,26-Jul-22,44.36923,68.19778,2.5-3
+Jackson Labs,JS,Jackson Labs South,12,JS12,JS12,JLS_12,.bwa.bam,JLS_12.bwa.bam,26-Jul-22,44.36926,68.19777,1.5-2
+Jackson Labs,JS,Jackson Labs South,13,JS13,JS13,JLS_13,.bwa.bam,JLS_13.bwa.bam,26-Jul-22,44.36928,68.19782,1-1.5
+Jackson Labs,JS,Jackson Labs South,14,JS14,JS14,JLS_14,.bwa.bam,JLS_14.bwa.bam,26-Jul-22,44.3693,68.19786,2-2.5
+Jackson Labs,JS,Jackson Labs South,15,JS15,JS15,JLS_15,.bwa.bam,JLS_15.bwa.bam,26-Jul-22,44.36934,68.19784,2
+Jackson Labs,JS,Jackson Labs South,16,JS16,JS16,JLS_16,.bwa.bam,JLS_16.bwa.bam,26-Jul-22,44.36935,68.1978,1-1.5
+Jackson Labs,JS,Jackson Labs South,17,JS17,JS17,JLS_17,.bwa.bam,JLS_17.bwa.bam,26-Jul-22,44.36938,68.19778,1.5-2
+Jackson Labs,JS,Jackson Labs South,18,JS18,JS18,JLS_18,.bwa.bam,JLS_18.bwa.bam,26-Jul-22,44.36939,68.19775,2-2.5
+Jackson Labs,JS,Jackson Labs South,19,JS19,JS19,JLS_19,.bwa.bam,JLS_19.bwa.bam,26-Jul-22,44.36948,68.19765,2.5
+Jackson Labs,JS,Jackson Labs South,20,JS20,JS20,JLS_20,.bwa.bam,JLS_20.bwa.bam,26-Jul-22,44.36857,68.19767,1.5-2
+Jackson Labs,JS,Jackson Labs South,21,JS21,JS21,JLS_21,.bwa.bam,JLS_21.bwa.bam,26-Jul-22,44.36966,68.19778,1-1.5
+Jackson Labs,JS,Jackson Labs South,22,JS22,JS22,JLS_22,.bwa.bam,JLS_22.bwa.bam,26-Jul-22,44.3697,68.19793,1.5-2
+Jackson Labs,JS,Jackson Labs South,23,JS23,JS23,JLS_23,.bwa.bam,JLS_23.bwa.bam,26-Jul-22,44.36953,68.19815,1.5-2
+Jackson Labs,JS,Jackson Labs South,24,JS24,JS24,JLS_24,.bwa.bam,JLS_24.bwa.bam,26-Jul-22,44.3695,68.19817,2-2.5
+Jackson Labs,JW,Jackson Labs West,01,JW01,JW01,JLW_1,.bwa.bam,JLW_1.bwa.bam,26-Jul-22,44.37091,68.19813,1.5
+Jackson Labs,JW,Jackson Labs West,02,JW02,JW02,JLW_2,.bwa.bam,JLW_2.bwa.bam,26-Jul-22,44.37092,68.19819,>3
+Jackson Labs,JW,Jackson Labs West,03,JW03,JW03,JLW_3,.bwa.bam,JLW_3.bwa.bam,26-Jul-22,44.37097,68.19822,1.5-2
+Jackson Labs,JW,Jackson Labs West,04,JW04,JW04,JLW_4,.bwa.bam,JLW_4.bwa.bam,26-Jul-22,44.37082,68.19779,1.5-2
+Jackson Labs,JW,Jackson Labs West,05,JW05,JW05,JLW_5,.bwa.bam,JLW_5.bwa.bam,26-Jul-22,44.3707,68.19762,>3
+Jackson Labs,JW,Jackson Labs West,06,JW06,JW06,JLW_6,.bwa.bam,JLW_6.bwa.bam,26-Jul-22,44.37075,68.19743,2-2.5
+Jackson Labs,JW,Jackson Labs West,07,JW07,JW07,JLW_7,.bwa.bam,JLW_7.bwa.bam,26-Jul-22,44.37087,68.19794,1.5-2
+Jackson Labs,JW,Jackson Labs West,08,JW08,JW08,JLW_8,.bwa.bam,JLW_8.bwa.bam,26-Jul-22,44.37082,68.19777,>3
+Jackson Labs,JW,Jackson Labs West,09,JW09,JW09,JLW_9,.bwa.bam,JLW_9.bwa.bam,26-Jul-22,44.37082,68.19773,2-2.5
+Jackson Labs,JW,Jackson Labs West,10,JW10,JW10,JLW_10,.bwa.bam,JLW_10.bwa.bam,26-Jul-22,44.37069,68.19759,1
+Jackson Labs,JW,Jackson Labs West,11,JW11,JW11,JLW_11,.bwa.bam,JLW_11.bwa.bam,26-Jul-22,44.37082,68.19783,>3
+Jackson Labs,JW,Jackson Labs West,12,JW12,JW12,JLW_12,.bwa.bam,JLW_12.bwa.bam,26-Jul-22,44.37087,68.19789,2.5-3
+Jackson Labs,JW,Jackson Labs West,13,JW13,JW13,JLW_13,.bwa.bam,JLW_13.bwa.bam,26-Jul-22,44.37077,68.19761,2-2.5
+Jackson Labs,JW,Jackson Labs West,14,JW14,JW14,JLW_14,.bwa.bam,JLW_14.bwa.bam,26-Jul-22,44.37096,68.19821,>3
+Jackson Labs,JW,Jackson Labs West,15,JW15,JW15,JLW_15,.bwa.bam,JLW_15.bwa.bam,26-Jul-22,44.37087,68.19797,1.5-2
+Jackson Labs,JW,Jackson Labs West,16,JW16,JW16,JLW_16,.bwa.bam,JLW_16.bwa.bam,26-Jul-22,44.37097,68.19832,>3
+Jackson Labs,JW,Jackson Labs West,17,JW17,JW17,JLW_17,.bwa.bam,JLW_17.bwa.bam,26-Jul-22,44.37073,68.1976,2-2.5
+Jackson Labs,JW,Jackson Labs West,18,JW18,JW18,JLW_18,.bwa.bam,JLW_18.bwa.bam,26-Jul-22,44.37085,68.19788,1-1.5
+Jackson Labs,JW,Jackson Labs West,19,JW19,JW19,JLW_19,.bwa.bam,JLW_19.bwa.bam,26-Jul-22,44.37068,68.19754,2
+Jackson Labs,JW,Jackson Labs West,20,JW20,JW20,JLW_20,.bwa.bam,JLW_20.bwa.bam,26-Jul-22,44.3708,68.1976,>3
+Jackson Labs,JW,Jackson Labs West,21,JW21,JW21,JLW_21,.bwa.bam,JLW_21.bwa.bam,26-Jul-22,44.37091,68.19798,2-2.5
+Jackson Labs,JW,Jackson Labs West,22,JW22,JW22,JLW_22,.bwa.bam,JLW_22.bwa.bam,26-Jul-22,44.3707,68.19759,2.5-3
+Jackson Labs,JW,Jackson Labs West,23,JW23,JW23,JLW_23,.bwa.bam,JLW_23.bwa.bam,26-Jul-22,44.37084,68.19763,2-2.5
+Jackson Labs,JW,Jackson Labs West,24,JW24,JW24,JLW_24,.bwa.bam,JLW_24.bwa.bam,26-Jul-22,44.37082,68.19765,1.5-2
+Jackson Labs,JW,Jackson Labs West,25,JW25,JW25,JLW_25,.bwa.bam,JLW_25.bwa.bam,26-Jul-22,44.37077,68.19748,1.5-2
+Great Meadow,JP,Jesup Path,01,JP01,JP01,JP_1,.bwa.bam,JP_1.bwa.bam,28-Jul-22,44.36546,68.21061,<0.5
+Great Meadow,JP,Jesup Path,02,JP02,JP02,JP_2,.bwa.bam,JP_2.bwa.bam,28-Jul-22,44.36544,68.21066,0.5-1
+Great Meadow,JP,Jesup Path,03,JP03,JP03,JP_3,.bwa.bam,JP_3.bwa.bam,28-Jul-22,44.36554,68.21065,0.5-1
+Great Meadow,JP,Jesup Path,04,JP04,JP04,JP_4,.bwa.bam,JP_4.bwa.bam,28-Jul-22,44.36552,68.21065,0.5-1
+Great Meadow,JP,Jesup Path,05,JP05,JP05,JP_5,.bwa.bam,JP_5.bwa.bam,28-Jul-22,44.36548,68.21072,0.5-1
+Great Meadow,JP,Jesup Path,06,JP06,JP06,JP_6,.bwa.bam,JP_6.bwa.bam,28-Jul-22,44.36547,68.21076,<0.5
+Great Meadow,JP,Jesup Path,07,JP07,JP07,JP_7,.bwa.bam,JP_7.bwa.bam,28-Jul-22,44.36547,68.21077,<0.5
+Great Meadow,JP,Jesup Path,08,JP08,JP08,JP_8,.bwa.bam,JP_8.bwa.bam,28-Jul-22,44.36536,68.21082,0.5-1
+Great Meadow,JP,Jesup Path,09,JP09,JP09,JP_9,.bwa.bam,JP_9.bwa.bam,28-Jul-22,44.36535,68.2109,0.5-1
+Great Meadow,JP,Jesup Path,10,JP10,JP10,JP_10,.bwa.bam,JP_10.bwa.bam,28-Jul-22,44.36535,68.21088,<0.5
+Great Meadow,JP,Jesup Path,11,JP11,JP11,JP_11,.bwa.bam,JP_11.bwa.bam,28-Jul-22,44.36528,68.21097,0.5
+Great Meadow,JP,Jesup Path,12,JP12,JP12,JP_12,.bwa.bam,JP_12.bwa.bam,28-Jul-22,44.36519,68.21095,<0.5
+Great Meadow,JP,Jesup Path,13,JP13,JP13,JP_13,.bwa.bam,JP_13.bwa.bam,28-Jul-22,44.36515,68.211,<0.5
+Great Meadow,JP,Jesup Path,14,JP14,JP14,JP_14,.bwa.bam,JP_14.bwa.bam,28-Jul-22,44.36516,68.21103,<0.5
+Great Meadow,JP,Jesup Path,15,JP15,JP15,JP_15,.bwa.bam,JP_15.bwa.bam,28-Jul-22,44.36514,68.21107,<0.5
+Great Meadow,JP,Jesup Path,16,JP16,JP16,JP_16,.bwa.bam,JP_16.bwa.bam,28-Jul-22,44.36497,68.21095,<0.5
+Great Meadow,JP,Jesup Path,17,JP17,JP17,JP_17,.bwa.bam,JP_17.bwa.bam,28-Jul-22,44.36494,68.21095,<0.5
+Great Meadow,JP,Jesup Path,18,JP18,JP18,JP_18,.bwa.bam,JP_18.bwa.bam,28-Jul-22,44.36494,68.21091,<0.5
+Great Meadow,JP,Jesup Path,19,JP19,JP19,JP_19,.bwa.bam,JP_19.bwa.bam,28-Jul-22,44.36493,68.21048,<0.5
+Great Meadow,JP,Jesup Path,20,JP20,JP20,JP_20,.bwa.bam,JP_20.bwa.bam,28-Jul-22,44.36493,68.21049,<0.5
+Great Meadow,JP,Jesup Path,21,JP21,JP21,JP_21,.bwa.bam,JP_21.bwa.bam,28-Jul-22,44.36498,68.21046,0.5-1
+Great Meadow,JP,Jesup Path,22,JP22,JP22,JP_22,.bwa.bam,JP_22.bwa.bam,28-Jul-22,44.36504,68.21043,0.5
+Great Meadow,JP,Jesup Path,23,JP23,JP23,JP_23,.bwa.bam,JP_23.bwa.bam,28-Jul-22,44.36531,68.21059,0.5
+Great Meadow,JP,Jesup Path,24,JP24,JP24,JP_24,.bwa.bam,JP_24.bwa.bam,28-Jul-22,44.36553,68.21059,<0.5
+Great Meadow,JP,Jesup Path,25,JP25,JP25,JP_25,.bwa.bam,JP_25.bwa.bam,28-Jul-22,44.36562,68.21064,<0.5
+Great Meadow,KM,Kebo Meadow,01,KM01,KM01,KM_1,.bwa.bam,KM_1.bwa.bam,28-Jul-22,44.37007,68.21223,1.5-2
+Great Meadow,KM,Kebo Meadow,02,KM02,KM02,KM_2,.bwa.bam,KM_2.bwa.bam,28-Jul-22,44.37003,68.21225,1
+Great Meadow,KM,Kebo Meadow,03,KM03,KM03,KM_3,.bwa.bam,KM_3.bwa.bam,28-Jul-22,44.37004,68.21231,1-1.5
+Great Meadow,KM,Kebo Meadow,04,KM04,KM04,KM_4,.bwa.bam,KM_4.bwa.bam,28-Jul-22,44.37006,68.21233,1.5
+Great Meadow,KM,Kebo Meadow,05,KM05,KM05,KM_5,.bwa.bam,KM_5.bwa.bam,28-Jul-22,44.37006,68.21235,1-1.5
+Great Meadow,KM,Kebo Meadow,06,KM06,KM06,KM_6,.bwa.bam,KM_6.bwa.bam,28-Jul-22,44.37009,68.21236,1
+Great Meadow,KM,Kebo Meadow,07,KM07,KM07,KM_7,.bwa.bam,KM_7.bwa.bam,28-Jul-22,44.37005,68.21243,1
+Great Meadow,KM,Kebo Meadow,08,KM08,KM08,KM_8,.bwa.bam,KM_8.bwa.bam,28-Jul-22,44.37003,68.21245,2-2.5
+Great Meadow,KM,Kebo Meadow,09,KM09,KM09,KM_9,.bwa.bam,KM_9.bwa.bam,28-Jul-22,44.36997,68.21246,1-1.5
+Great Meadow,KM,Kebo Meadow,10,KM10,KM10,KM_10,.bwa.bam,KM_10.bwa.bam,28-Jul-22,44.36997,68.21247,1.5-2
+Great Meadow,KM,Kebo Meadow,11,KM11,KM11,KM_11,.bwa.bam,KM_11.bwa.bam,28-Jul-22,44.36989,68.21243,2-2.5
+Great Meadow,KM,Kebo Meadow,12,KM12,KM12,KM_12,.bwa.bam,KM_12.bwa.bam,28-Jul-22,44.36985,68.21243,2-2.5
+Great Meadow,KM,Kebo Meadow,13,KM13,KM13,KM_13,.bwa.bam,KM_13.bwa.bam,28-Jul-22,44.36982,68.21242,1-1.5
+Great Meadow,KM,Kebo Meadow,14,KM14,KM14,KM_14,.bwa.bam,KM_14.bwa.bam,28-Jul-22,44.369,68.21333,1
+Great Meadow,KM,Kebo Meadow,15,KM15,KM15,KM_15,.bwa.bam,KM_15.bwa.bam,28-Jul-22,44.35909,68.21338,1
+Great Meadow,KM,Kebo Meadow,16,KM16,KM16,KM_16,.bwa.bam,KM_16.bwa.bam,28-Jul-22,44.36911,68.21332,<0.5
+Great Meadow,KM,Kebo Meadow,17,KM17,KM17,KM_17,.bwa.bam,KM_17.bwa.bam,28-Jul-22,44.36913,68.21336,<0.5
+Great Meadow,KM,Kebo Meadow,18,KM18,KM18,KM_18,.bwa.bam,KM_18.bwa.bam,28-Jul-22,44.36926,68.21334,0.5-1
+Great Meadow,KM,Kebo Meadow,19,KM19,KM19,KM_19,.bwa.bam,KM_19.bwa.bam,28-Jul-22,44.3694,68.21347,0.5-1
+Great Meadow,KM,Kebo Meadow,20,KM20,KM20,KM_20,.bwa.bam,KM_20.bwa.bam,28-Jul-22,44.36954,68.21344,0.5-1
+Great Meadow,KM,Kebo Meadow,21,KM21,KM21,KM_21,.bwa.bam,KM_21.bwa.bam,28-Jul-22,44.36959,68.21344,0.5-1
+Great Meadow,KM,Kebo Meadow,22,KM22,KM22,KM_22,.bwa.bam,KM_22.bwa.bam,28-Jul-22,44.36971,68.21339,0.5-1
+Great Meadow,KM,Kebo Meadow,23,KM23,KM23,KM_23,.bwa.bam,KM_23.bwa.bam,28-Jul-22,44.36998,68.21341,1
+Great Meadow,KM,Kebo Meadow,24,KM24,KM24,KM_24,.bwa.bam,KM_24.bwa.bam,28-Jul-22,44.37,68.21375,2
+Great Meadow,KM,Kebo Meadow,25,KM25,KM25,KM_25,.bwa.bam,KM_25.bwa.bam,28-Jul-22,44.36985,68.214,1-1.5
+Kent Field,KN,Kent Field North,01,KN01,KN01,KFN_1,.bwa.bam,KFN_1.bwa.bam,30-Jul-22,44.35541,68.18496,1-1.5
+Kent Field,KN,Kent Field North,02,KN02,KN02,KFN_2,.bwa.bam,KFN_2.bwa.bam,30-Jul-22,44.35538,68.18493,1.5
+Kent Field,KN,Kent Field North,03,KN03,KN03,KFN_3,.bwa.bam,KFN_3.bwa.bam,30-Jul-22,44.35532,68.18496,1-1.5
+Kent Field,KN,Kent Field North,04,KN04,KN04,KFN_4,.bwa.bam,KFN_4.bwa.bam,30-Jul-22,44.3553,68.18497,0.5-1
+Kent Field,KN,Kent Field North,05,KN05,KN05,KFN_5,.bwa.bam,KFN_5.bwa.bam,30-Jul-22,44.35528,68.18495,0.5-1
+Kent Field,KN,Kent Field North,06,KN06,KN06,KFN_6,.bwa.bam,KFN_6.bwa.bam,30-Jul-22,44.35522,68.185,1.5-2
+Kent Field,KN,Kent Field North,07,KN07,KN07,KFN_7,.bwa.bam,KFN_7.bwa.bam,30-Jul-22,44.35519,68.18497,1-1.5
+Kent Field,KN,Kent Field North,08,KN08,KN08,KFN_8,.bwa.bam,KFN_8.bwa.bam,30-Jul-22,44.35518,68.18497,0.5-1
+Kent Field,KN,Kent Field North,09,KN09,KN09,KFN_9,.bwa.bam,KFN_9.bwa.bam,30-Jul-22,44.35508,68.18498,1-1.5
+Kent Field,KN,Kent Field North,10,KN10,KN10,KFN_10,.bwa.bam,KFN_10.bwa.bam,30-Jul-22,44.35509,68.18502,0.5-1
+Kent Field,KN,Kent Field North,11,KN11,KN11,KFN_11,.bwa.bam,KFN_11.bwa.bam,30-Jul-22,44.35505,68.1851,0.5
+Kent Field,KN,Kent Field North,12,KN12,KN12,KFN_12,.bwa.bam,KFN_12.bwa.bam,30-Jul-22,44.35505,68.18509,0.5-1
+Kent Field,KN,Kent Field North,13,KN13,KN13,KFN_13,.bwa.bam,KFN_13.bwa.bam,30-Jul-22,44.35505,68.18508,0.5
+Kent Field,KN,Kent Field North,14,KN14,KN14,KFN_14,.bwa.bam,KFN_14.bwa.bam,30-Jul-22,44.3551,68.18509,0.5
+Kent Field,KN,Kent Field North,15,KN15,KN15,KFN_15,.bwa.bam,KFN_15.bwa.bam,30-Jul-22,44.35485,68.18481,1.5-2
+Kent Field,KN,Kent Field North,16,KN16,KN16,KFN_16,.bwa.bam,KFN_16.bwa.bam,30-Jul-22,44.35471,68.18473,0.5-1
+Kent Field,KN,Kent Field North,17,KN17,KN17,KFN_17,.bwa.bam,KFN_17.bwa.bam,30-Jul-22,44.35468,68.18474,0.5-1
+Kent Field,KN,Kent Field North,18,KN18,KN18,KFN_18,.bwa.bam,KFN_18.bwa.bam,30-Jul-22,44.35467,68.18478,1-1.5
+Kent Field,KN,Kent Field North,19,KN19,KN19,KFN_19,.bwa.bam,KFN_19.bwa.bam,30-Jul-22,44.35463,68.18479,0.5
+Kent Field,KN,Kent Field North,20,KN20,KN20,KFN_20,.bwa.bam,KFN_20.bwa.bam,30-Jul-22,44.3546,68.18488,2-2.5
+Kent Field,KN,Kent Field North,21,KN21,KN21,KFN_21,.bwa.bam,KFN_21.bwa.bam,30-Jul-22,44.35457,68.18489,1.5-2
+Kent Field,KN,Kent Field North,22,KN22,KN22,KFN_22,.bwa.bam,KFN_22.bwa.bam,30-Jul-22,44.35452,68.18489,1.5-2
+Kent Field,KN,Kent Field North,23,KN23,KN23,KFN_23,.bwa.bam,KFN_23.bwa.bam,30-Jul-22,44.35451,68.1849,0.5-1
+Kent Field,KN,Kent Field North,24,KN24,KN24,KFN_24,.bwa.bam,KFN_24.bwa.bam,30-Jul-22,44.35446,68.18491,1-1.5
+Kent Field,KN,Kent Field North,25,KN25,KN25,KFN_25,.bwa.bam,KFN_25.bwa.bam,30-Jul-22,44.35439,68.18497,0.5-1
+Kent Field,KS,Kent Field South,01,KS01,KS01,KFS_1,.bwa.bam,KFS_1.bwa.bam,30-Jul-22,44.34013,68.18314,0.5
+Kent Field,KS,Kent Field South,02,KS02,KS02,KFS_2,.bwa.bam,KFS_2.bwa.bam,30-Jul-22,44.33978,68.18241,0.5
+Kent Field,KS,Kent Field South,03,KS03,KS03,KFS_3,.bwa.bam,KFS_3.bwa.bam,30-Jul-22,44.33969,68.18234,1-1.5
+Kent Field,KS,Kent Field South,04,KS04,KS04,KFS_4,.bwa.bam,KFS_4.bwa.bam,30-Jul-22,44.33966,68.18229,0.5-1
+Kent Field,KS,Kent Field South,05,KS05,KS05,KFS_5,.bwa.bam,KFS_5.bwa.bam,30-Jul-22,44.33965,68.18228,0.5-1
+Kent Field,KS,Kent Field South,06,KS06,KS06,KFS_6,.bwa.bam,KFS_6.bwa.bam,30-Jul-22,44.33981,68.18188,<0.5
+Kent Field,KS,Kent Field South,07,KS07,KS07,KFS_7,.bwa.bam,KFS_7.bwa.bam,30-Jul-22,44.33988,68.1817,1.5-2
+Kent Field,KS,Kent Field South,08,KS08,KS08,KFS_8,.bwa.bam,KFS_8.bwa.bam,30-Jul-22,44.3399,68.18165,0.5-1
+Bass Harbor,MB,Marshall Brook,01,MB01,MB01,MB_1,.bwa.bam,MB_1.bwa.bam,NA,NA,NA,<3
