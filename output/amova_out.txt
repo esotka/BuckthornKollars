@@ -1,0 +1,29 @@
+
+	Analysis of Molecular Variance
+
+Call: amova(formula = st.d ~ groups/pop)
+
+             SSD      MSD  df
+groups  45385.03 6483.575   7
+pop     18881.75 2697.393   7
+Error  330880.26 1248.605 265
+Total  395147.04 1416.298 279
+
+Variance components:
+         sigma2 P.value
+groups  101.831    0.01
+pop      87.332    0.00
+Error  1248.605        
+
+Phi-statistics:
+groups.in.GLOBAL (Phi_CT)    pop.in.GLOBAL (Phi_ST)    pop.in.groups (Phi_SC) 
+               0.07082548                0.13156664                0.06537110 
+
+Variance coefficients:
+       a        b        c 
+16.58950 20.47376 33.85000 
+
+           groups       pop
+GLOBAL 0.07082548 0.1315666
+groups         NA 0.0653711
+pop            NA        NA
